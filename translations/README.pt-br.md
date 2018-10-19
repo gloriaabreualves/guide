@@ -14,7 +14,7 @@ A comunidade freeCodeCamp está construindo um massivo, pesquisável **"Guia"**.
 
 Essa ferramenta de referência incluirá milhares de artigos que abrangem todas as áreas de desenvolvimento, design e ciência de dados - tudo escrito para ser facilmente entendido por pessoas novas no mundo da programação.
 
-Este repositório é onde nós planejamos e mantemos estes artigos do Guia, os quais nós hospedamos no site do nosso guia da comunidade em forma de uma wikepedia. [`guide.freecodecamp.org`](https://guide.freecodecamp.org).
+Este repositório é onde nós planejamos e mantemos estes artigos do Guia, os quais nós hospedamos no site do nosso guia da comunidade em forma de uma wikipedia. [`guide.freecodecamp.org`](https://guide.freecodecamp.org).
 
 ## O que são artigos do Guia?
 
@@ -28,7 +28,7 @@ Você pode encontrar um [artigo de exemplo sobre HTML Elements aqui](./src/pages
 
 Desenvolvimento front-end (formulário de adjetivo com um traço) é quando você está trabalhando no front-end (forma de substantivo sem traço). O mesmo acontece com o back end, full stack e muitos outros termos compostos.
 
-Congratulamo-nos com a sua ajuda para escrever estes artigos. Você não precisa ser um especialista em um tópico para escrever sobre ele - todo este Guia é de código aberto, portanto, mesmo que você cometa um erro, outro colaborador irá eventualmente corrigi-lo.
+Parabenizamos sua ajuda para escrever estes artigos. Você não precisa ser um especialista em um tópico para escrever sobre ele - todo este Guia é de código aberto, portanto, mesmo que você cometa um erro, outro colaborador irá eventualmente corrigi-lo.
 
 Para ajudar, encontre um `stub article` no nosso [site do Guia](https://guide.freecodecamp.org/), escreva o artigo e abra um pull request (PR) para substituir o stub pelo seu artigo. Um [pull request](https://help.github.com/articles/about-pull-requests/) é como você sugerirá alterações. Ele permite que outras pessoas saibam sobre suas alterações, revise-as e adote-as.
 
